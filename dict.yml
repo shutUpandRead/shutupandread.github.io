@@ -1,0 +1,25 @@
+
+# Dictionnaire à compléter
+
+# Le premier mot du titre est pioché dans la liste "primaryWord",
+# et les deux autres sont piochés dans la liste "secondaryWord".
+
+# Bien respecter la structure : espaces avant le tiret, mot entre guillemets, etc.
+# Bien intégrer le pronom pour les mots de la liste "primaryWord".
+
+primaryWord: 
+  - "Une promesse"
+  - "Une étreinte"
+  - "Un sortilège"
+  - "Un maléfice"
+
+secondaryWord:
+  - "brume"
+  - "cristal"
+  - "lierre"
+  - "roses"
+  - "immortalité"
+  - "étoiles"
+  - "mystère"
+  - "espoir"
+  - "oubli"
